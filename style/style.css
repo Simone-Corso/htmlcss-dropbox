@@ -33,6 +33,31 @@
 
 .utilità-drop{
     height: 200px;
-    background-color: bisque
+    background-color: orange
+
+}
+
+.design-image{
+    height: 450px;
+    background-color: orangered
+
+}
+
+.prova-gratuita{
+    height: 200px;
+    background-color: green
+
+}
+
+.domande-frequenti{
+    height: 500px;
+    background-color: cadetblue
+
+}
+
+.cinque-liste-menu{
+    height: 400px;
+    background-color: black
+
 
 }
