@@ -8,3 +8,20 @@
     height: 70px;
     background-color: aqua;
 }
+
+.container-image{
+    height: 700px;
+    background-color: blueviolet;
+}
+
+.container-table{
+    height: 1000px;
+    background-color: blue;
+    
+}
+
+.container-DropBox{
+    height: 500px;
+    background-color: brown;
+}
+
