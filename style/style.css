@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.navigation{
+    height: 70px;
+    background-color: aqua;
+}
