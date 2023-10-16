@@ -7,31 +7,33 @@
 .navigation{
     height: 70px;
     background-color: aqua;
-    
-}
-
-img{
-    position: relative;
-    margin-top: 1.2rem;
-    margin-left: 1.2rem;
-}
-
-ul{
-    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .flex-j-center{
     display: flex;
-    justify-content: center;
+    align-items: center;
 }
+
+li{
+    padding: 0.6em;
+}
+
 
 .flex-a-center{
     display: flex;
     align-items: center;
 }
 
-section.navigationdiv.inizia{
-    justify-content: flex-end;
+img{
+    position: relative;
+    margin-left: 1.2rem;
+}
+
+ul{
+    list-style-type: none;
 }
 
 
