@@ -7,6 +7,13 @@
 .navigation{
     height: 70px;
     background-color: aqua;
+    
+}
+
+img{
+    position: relative;
+    margin-top: 1.2rem;
+    margin-left: 1.2rem;
 }
 
 .container-image{
