@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
 .navigation{
     height: 70px;
     background-color: white;
@@ -41,7 +46,7 @@ img{
     display: block;
 }
 
-.bg-white{
+.bg-color{
     background-color: #B4D0E7;
     padding: 2rem;
     display: flex;
@@ -95,11 +100,19 @@ p{
     justify-content: center;
 }
 
-
+.columncolumn-destrodotted-test{
+    display: flex;
+    justify-content: right;
+}
 
 .column-primo-testo {
     width: 40%;
 }
+
+.column-secondo-testo {
+    width: 40%;
+}
+
 
 
 
