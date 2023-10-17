@@ -70,7 +70,8 @@ div.columns{
 }
 
 div.column{
-    font-size: 1.1rem;
+    font-size: 0.85rem;
+    padding-top: 3rem;
 }
 
 div.column-30{
@@ -80,6 +81,14 @@ width: 30%;
 div.column-70{
     width: 70%;
 
+}
+
+div.column p{
+    margin-bottom: 1rem;
+}
+
+div.column button{
+    margin-bottom: 1rem;
 }
 
 .table-column{
