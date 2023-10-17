@@ -50,7 +50,8 @@ img{
 
 .table-column{
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
+    margin-left: 2rem;
 }
 
 .prima-table{
@@ -67,6 +68,12 @@ img{
     width: 10%;
     padding: 3rem;
 
+}
+
+.mono-table{
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
 }
 
 
