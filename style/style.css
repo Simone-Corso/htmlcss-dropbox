@@ -69,6 +69,10 @@ div.columns{
 
 }
 
+div.column{
+    font-size: 1.1rem;
+}
+
 div.column-30{
 width: 30%;
 }
