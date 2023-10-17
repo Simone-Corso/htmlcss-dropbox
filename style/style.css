@@ -62,6 +62,22 @@ section.jumbotron{
     background-color: #B4D0E7;
 }
 
+div.columns{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.column-30{
+width: 30%;
+}
+
+.column-70{
+    width: 70%;
+
+}
+
 .table-column{
     display: flex;
     justify-content: center;
