@@ -47,19 +47,15 @@ img{
 }
 
 section.bg-light-blue{
-    height: 200px;
     background-color: #B4D0E7;
+    
 }
 
-section.jumbotron{
-    background-color: #B4D0E7;
-    height: 550px;
-    padding: 4rem;
-}
 .container-big{
     margin: 0 auto;
     max-width: 950px;
-    background-color: #B4D0E7;
+    position: relative;
+    top: 46px;
 }
 
 div.columns{
@@ -71,7 +67,6 @@ div.columns{
 
 div.column{
     font-size: 0.85rem;
-    padding-top: 3rem;
 }
 
 div.column-30{
