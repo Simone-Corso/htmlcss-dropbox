@@ -46,9 +46,13 @@ img{
     display: block;
 }
 
+.jumbotron{
+    background-color: #B4D0E7;
+}
 .container-big{
     margin: 0 auto;
     max-width: 950px;
+    background-color: #B4D0E7;
 }
 
 .table-column{
