@@ -119,8 +119,14 @@ div.column img{
 }
 
 
-ul,li{
+ul{
     list-style-type: none;
+    text-align: center;
+    border: 1px solid #DDDDDF;
+}
+li{
+    list-style-type: none;
+    padding: .25rem;
 }
 
 .container{
@@ -175,7 +181,7 @@ th{
 .column-20{
     height: 650px;
 width: calc(100% / 3);
-border: 1px solid red;
+border: 1px solid #DDDDDF;
 }
 
 .button-colonne{
