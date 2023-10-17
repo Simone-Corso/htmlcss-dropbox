@@ -69,11 +69,11 @@ div.columns{
 
 }
 
-.column-30{
+div.column-30{
 width: 30%;
 }
 
-.column-70{
+div.column-70{
     width: 70%;
 
 }
