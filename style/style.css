@@ -91,6 +91,10 @@ div.column button{
     margin-bottom: 1rem;
 }
 
+div.column img{
+    width: 100%;
+}
+
 .table-column{
     display: flex;
     justify-content: center;
