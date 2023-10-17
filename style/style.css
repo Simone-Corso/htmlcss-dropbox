@@ -35,8 +35,16 @@ li{
 }
 
 img{
-    position: relative;
-    margin-left: 1.2rem;
+    max-width: 800px;
+    display: flex;
+    justify-content: flex-end;
+    display: block;
+}
+
+.bg-white{
+    padding: 2rem;
+    display: flex;
+    justify-content: flex-end;
 }
 
 ul{
@@ -45,23 +53,27 @@ ul{
 
 
 h1{
+    font-size: 3rem;
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 p{
-    text-align: center;
-    padding: 2rem;
+    margin-bottom: 1.2rem;
+    display: flex;
+    justify-content: center;
 }
 
 
 
-
-.container-image{
-    height: 700px;
-    background-color: blueviolet;
+.column-primo-testo {
+    width: 40%;
 }
+
+
 
 .container-table{
+    width: 100%;
     height: 1000px;
     background-color: blue;
     
