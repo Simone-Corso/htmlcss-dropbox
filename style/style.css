@@ -49,7 +49,7 @@ img{
 section.jumbotron{
     background-color: #B4D0E7;
     height: 550px;
-    padding: 3rem;
+    padding: 5rem;
 }
 .container-big{
     margin: 0 auto;
@@ -93,8 +93,8 @@ ul{
 
 
 h1{
-    font-size: 3rem;
-    text-align: center;
+    font-size: 3.8rem;
+    font-weight: 900;
     margin-bottom: 2rem;
 }
 
