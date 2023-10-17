@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Fredoka', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+     font-family: 'Open Sans', sans-serif;
 }
 
 .navigation{
@@ -46,11 +46,9 @@ img{
     display: block;
 }
 
-.bg-color{
-    background-color: #B4D0E7;
-    padding: 2rem;
-    display: flex;
-    justify-content: flex-end;
+.container-big{
+    margin: 0 auto;
+    max-width: 950px;
 }
 
 .table-column{
