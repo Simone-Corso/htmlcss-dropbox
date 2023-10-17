@@ -36,8 +36,8 @@ li{
 .button-sinistro{
     background-color: #0061FF;
     color: white;
-    width: 50px;
-    height: 25px;
+    height: 30px;
+    width: 200px;
 }
 
 
@@ -129,7 +129,6 @@ div.column img{
 ul{
     list-style-type: none;
     text-align: center;
-    border: 1px solid #DDDDDF;
 }
 li{
     list-style-type: none;
