@@ -46,10 +46,15 @@ img{
     display: block;
 }
 
+section.bg-light-blue{
+    height: 200px;
+    background-color: #B4D0E7;
+}
+
 section.jumbotron{
     background-color: #B4D0E7;
     height: 550px;
-    padding: 5rem;
+    padding: 4rem;
 }
 .container-big{
     margin: 0 auto;
@@ -90,10 +95,13 @@ ul{
     list-style-type: none;
 }
 
-
+.container{
+    margin: 0 auto;
+    max-width: 770px;
+}
 
 h1{
-    font-size: 3.8rem;
+    font-size: 3.75rem;
     font-weight: 900;
     margin-bottom: 2rem;
 }
