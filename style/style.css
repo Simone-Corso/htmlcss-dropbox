@@ -46,8 +46,10 @@ img{
     display: block;
 }
 
-.jumbotron{
+section.jumbotron{
     background-color: #B4D0E7;
+    height: 550px;
+    padding: 3rem;
 }
 .container-big{
     margin: 0 auto;
