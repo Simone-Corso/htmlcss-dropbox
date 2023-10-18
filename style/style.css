@@ -67,8 +67,6 @@ section.bg-light-blue{
 
 div.columns{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
 
 }
 
@@ -85,6 +83,14 @@ div.column-70{
 
 }
 
+.colonna-finale{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+.columncolonna-finale{
+    padding: 1rem;
+}
 div.column p{
     margin-bottom: 1rem;
 }
@@ -180,14 +186,15 @@ th{
 
 .container-colonne{
     margin: 0 auto;
-    width: 600px;
+    width: 700px;
 
 }
 
 .column-20{
     height: 650px;
-width: calc(100% / 3);
+width: calc(100% / 3 );
 border: 1px solid #DDDDDF;
+margin-left: 1.5rem;
 }
 
 .button-colonne{
