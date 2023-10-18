@@ -300,25 +300,6 @@ height: 50%;
 
 }
 
-
-.full-width{
-    background-color: white;
-    height: 700px;
-    border: 1px solid black;
-    height: 700px;
-}
-
-.flex{
-    display: flex;
-}
-
-div.column-third{
-    width: calc(100vw / 3);
-    height: calc(100vw / 3);
-    border: 1px solid red;
- border: 1px solid black;
-}
-
 .container-DropBox{
     height: 500px;
     background-color: brown;
