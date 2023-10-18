@@ -46,6 +46,11 @@ li{
     align-items: center;
 }
 
+.flex{
+    display: flex;
+    
+}
+
 img{
     max-width: 780px;
     display: flex;
