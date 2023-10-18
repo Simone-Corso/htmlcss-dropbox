@@ -58,11 +58,31 @@ section.bg-light-blue{
     
 }
 
+.Partnerbg-white{
+    background-color: white;
+    margin: 0 auto;
+    max-width: 950px;
+    position: relative;
+    top: 46px;
+
+}
+
 .container-big{
     margin: 0 auto;
     max-width: 950px;
     position: relative;
     top: 46px;
+}
+
+.container-destro{
+    margin: 0 auto;
+    max-width: 650px;
+    top: 46px;
+}
+
+.partner{
+    display: flex;
+    justify-content: flex-ends;
 }
 
 div.columns{
@@ -94,6 +114,7 @@ div.column-70{
 div.column p{
     margin-bottom: 1rem;
 }
+
 
 div.column button{
     margin-bottom: 1rem;
