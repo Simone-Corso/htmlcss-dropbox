@@ -119,6 +119,12 @@ div.column-70{
 
 }
 
+div.column-third{
+    width: calc(100vw / 3 );
+    height: calc(100vw / 3 );
+    border: 1px solid blue;
+}
+
 .colonna-finale{
     display: flex;
     justify-content: center;
