@@ -67,6 +67,13 @@ section.bg-light-blue{
 
 }
 
+.descrizione{
+    width: 30%;
+    height: 650px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 div.descrizione p{
     margin-bottom: 1rem;
 }
@@ -235,8 +242,10 @@ margin-left: 1.5rem;
 
 .Partner{
     background-color: white;
-    height: 700px;
+    height: 701px;
     display: flex;
+    margin-left: 5rem;
+    margin-right: 5rem;
 
 
 }
