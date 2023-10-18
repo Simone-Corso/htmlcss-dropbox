@@ -275,25 +275,27 @@ height: 50%;
 
 .container-wrap-switching{
     width: calc(100% / 6 );
-    border: 1px solid black;
     display: flex;
     flex-wrap: wrap;
+    margin-right: 2.5rem;
     
     
 
 }
 
 
+.full-width{
+    
+}
+
+div.column-third{
+    width: calc(100vw / 3);
+    height: calc(100vw / 3);
+}
 
 .container-DropBox{
     height: 500px;
     background-color: brown;
-}
-
-.container-wrap{
-    height: 900px;
-    background-color: gray
-    
 }
 
 .utilità-drop{
