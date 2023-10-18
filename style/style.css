@@ -158,7 +158,6 @@ div.column-70{
 div.column-third{
     width: calc(100vw / 3 );
     height: calc(100vw / 3 );
-    border: 1px solid blue;
     display: flex;
     flex-wrap: wrap;
     padding: 0;
@@ -168,6 +167,14 @@ div.column-third{
 article.client-square{
     width: 50%;
     height: 50%;
+    display: flex;
+}
+
+article.client-square img{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    filter: invert(1);
 }
 
 .colonna-finale{
@@ -357,8 +364,8 @@ height: 50%;
     background-color: brown;
 } 
 
-.utilità-drop{
-    height: 200px;
+.titolo{
+    height: 400px;
     background-color: orange
 
 }
