@@ -94,6 +94,8 @@ div.descrizione h2{
 
 div.columns{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: ;
 
 }
 
@@ -285,12 +287,15 @@ height: 50%;
 
 
 .full-width{
-    
+    border: 1px solid black;
+    height: 700px;
 }
+
 
 div.column-third{
     width: calc(100vw / 3);
     height: calc(100vw / 3);
+    border: 1px solid black;
 }
 
 .container-DropBox{
