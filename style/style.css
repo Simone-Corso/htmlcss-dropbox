@@ -94,8 +94,7 @@ div.descrizione h2{
 
 div.columns{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: ;
+    flex-wrap: nowrap;
 
 }
 
@@ -269,6 +268,13 @@ margin-left: 1.5rem;
     justify-content: center;
 }
 
+.seconda-operazione{
+    background-color: white;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 
 .container-wrap-switching img{
 width: 100%;
@@ -287,28 +293,21 @@ height: 50%;
 
 
 .full-width{
-<<<<<<< HEAD
     background-color: white;
     height: 700px;
-
-=======
     border: 1px solid black;
     height: 700px;
 }
 
 .flex{
     display: flex;
->>>>>>> 9a8885ca287a50780149c5541dbf603816574e35
 }
 
 div.column-third{
     width: calc(100vw / 3);
     height: calc(100vw / 3);
-<<<<<<< HEAD
     border: 1px solid red;
-=======
-    border: 1px solid black;
->>>>>>> 9a8885ca287a50780149c5541dbf603816574e35
+ border: 1px solid black;
 }
 
 .container-DropBox{
