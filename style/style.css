@@ -359,16 +359,38 @@ height: 50%;
 
 }
 
+
+.titolo{
+    height: 400px;
+    background-color: #B4D0E7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.utilità-drop{
+    width: 50%;
+}
+
+.button-inizia-destro{
+    width: 50%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5rem;
+}
+.button-inizia-dx{
+    height: 30px;
+    width: 200px;
+}
+
 .container-DropBox{
     height: 500px;
     background-color: brown;
 } 
 
-.titolo{
-    height: 400px;
-    background-color: orange
 
-}
 
 .design-image{
     height: 450px;
