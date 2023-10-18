@@ -102,6 +102,7 @@ div.descrizione h2{
 div.columns{
     display: flex;
     flex-wrap: nowrap;
+    justify-content: center;
 
 }
 
