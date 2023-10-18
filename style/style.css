@@ -48,7 +48,7 @@ li{
 
 .flex{
     display: flex;
-    
+
 }
 
 img{
@@ -128,6 +128,12 @@ div.column-third{
     width: calc(100vw / 3 );
     height: calc(100vw / 3 );
     border: 1px solid blue;
+}
+
+article.client-square{
+    background-color: aquamarine;
+    width: 50%;
+    height: 50%;
 }
 
 .colonna-finale{
