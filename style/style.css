@@ -52,27 +52,33 @@ li{
 }
 
 .bg-green{
+    background-color: #A2D39B;
 
 }
 .bg-brown{
-    
+    background-color: #61082B;
 }
 .bg-sky-blue{
-
+    background-color: #0093CE;
 }
 .bg-red{
+    background-color: #FF1C1C;
     
 }
 .bg-red-scuro{
+    background-color: #D5001F;
 
 }
 .bg-celeste{
+    background-color: #B4D0E7;
     
 }
 .bg-blue{
+    background-color: #0D2481;
 
 }
 .bg-yellow{
+    background-color: #FFD830;
     
 }
 
