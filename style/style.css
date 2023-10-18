@@ -162,6 +162,7 @@ div.column-third{
     display: flex;
     flex-wrap: wrap;
     padding: 0;
+    background-color: #F5F5F5;
 }
 
 article.client-square{
