@@ -291,6 +291,9 @@ height: 50%;
     height: 700px;
 }
 
+.flex{
+    display: flex;
+}
 
 div.column-third{
     width: calc(100vw / 3);
