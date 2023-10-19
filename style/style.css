@@ -387,13 +387,15 @@ height: 50%;
 
 .menu-finale{
     height: 500px;
-    background-color: black
+    background-color: black;
+    display: flex;
+    flex-direction: row;
 
 }
 
 .white-testo{
     color: white;
-    margin-right: 2rem;
+    margin-right: 5rem;
 }
 
 .cinque-liste-menu{
@@ -403,8 +405,5 @@ height: 50%;
     flex-wrap: wrap;
     flex-direction: column;
     margin-left: 2rem;
-    padding: 1.5rem
-rem
-;
-}
+    padding: 1.5rem;
 }
