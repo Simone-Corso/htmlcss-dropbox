@@ -178,13 +178,27 @@ article.client-square img{
 }
 
 .colonna-finale{
-    display: flex;
-    justify-content: center;
     height: 100px;
 }
 .columncolonna-finale{
     padding: 1rem;
+    display: flex;
+    justify-content: center;
 }
+
+.titolo-delle-operazioni{
+    background-color: white;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 2.5rem;
+}
+
+.titolo-operazioni{
+    font-size: 2.5rem;
+}
+
 div.column p{
     margin-bottom: 1rem;
 }
